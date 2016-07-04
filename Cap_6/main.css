@@ -1,0 +1,15 @@
+/* Styles go here. */
+
+.exemplo{
+    width: 600px;
+    height: auto;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    background-color: #eee;
+    border-radius: 6px;
+    font-size: 18px;
+    color: #563d7c;
+    padding: 10px 16px;
+
+   
+}
